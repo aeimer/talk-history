@@ -1,7 +1,16 @@
 # My personal talk history
-History of talks and other things I can publicly share
+
+History of talks and other things I can publicly share.
 
 <!-- TODO: Setup https://speakerdeck.com and reference here -->
+
+---
+
+This is a collection of my
+
+<!-- * published articles -->
+* talks I gave at conferences and other occasions
+<!-- * meetups and smaller events I presented at -->
 
 <!-- ## Articles -->
 
