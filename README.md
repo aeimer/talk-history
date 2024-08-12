@@ -2,7 +2,8 @@
 
 History of talks and other things I can publicly share.
 
-<!-- TODO: Setup https://speakerdeck.com and reference here -->
+You can find many of my slides at
+[Speaker Deck](https://speakerdeck.com/aeimer).
 
 ---
 
