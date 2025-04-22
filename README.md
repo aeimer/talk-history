@@ -22,6 +22,10 @@ This is a collection of my
 
 ## Meetups
 
+### 2025
+
+* EAM Community Rhein-Main &mdash; _Multi-Cloud_ ([Slides](https://speakerdeck.com/aeimer/azure-landing-zones))
+
 ### 2024
 
 * [Cloud Native Night (Mainz)](https://www.meetup.com/cloud-native-night/) &mdash; _[AI’s Secret Weapon: Turning Documents into Knowledge](https://www.meetup.com/cloud-native-night/events/302568956)_ ([Slides](https://speakerdeck.com/aeimer/ais-secret-weapon-turning-documents-into-knowledge-cwyd))
