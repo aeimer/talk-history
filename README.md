@@ -16,15 +16,18 @@ This is a collection of my
 
 <!-- ## Articles -->
 
+<!-- ### 2026 -->
+
 <!-- ## Conferences -->
 
-<!-- ### 2024 -->
+<!-- ### 2026 -->
 
 ## Meetups
 
 ### 2025
 
 * EAM Community Rhein-Main &mdash; _Multi-Cloud_ ([Slides](https://speakerdeck.com/aeimer/azure-landing-zones))
+* [Cloud Native Night (Mainz)](https://www.meetup.com/cloud-native-night/) &mdash; _[Testing in Terraform - only for platform nerds?](https://www.meetup.com/de-de/cloud-native-night/events/311836744/)_ ([Slides](https://speakerdeck.com/aeimer/cnn-testing-in-terraform-only-for-platform-nerds))
 
 ### 2024
 
