@@ -14,15 +14,24 @@ This is a collection of my
 * meetups and smaller events I presented at
 * other occasions
 
-<!-- ## Articles -->
+## Articles
 
-<!-- ### 2026 -->
+### 2026
 
-<!-- ## Conferences -->
+* _tbd_
 
-<!-- ### 2026 -->
+## Conferences
+
+### 2026
+
+* [Java Land](https://www.javaland.eu) _tbd_
+* [Java Land](https://www.javaland.eu) _tbd_
 
 ## Meetups
+
+### 2026
+
+* [Java User Group Darmstadt](https://jug-da.de) &mdash; _[Antora & Vale](https://www.jug-da.de/2026/02/JavaLand-Newcomer/)_
 
 ### 2025
 
