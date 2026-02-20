@@ -18,7 +18,8 @@ This is a collection of my
 
 ### 2026
 
-* _tbd_
+* [IT Spektrum 2/2026](https://www.sigs.de/uebersicht-magazine/it-spektrum/) &mdash;
+[Skalierbare Dokumentation-as-Code im Enterprise-Umfeld](https://www.sigs.de/artikel/skalierbare-dokumentation-as-code-im-enterprise-umfeld/)
 
 ## Conferences
 
