@@ -19,17 +19,18 @@ This is a collection of my
 ### 2026
 
 * [IT Spektrum 2/2026](https://www.sigs.de/uebersicht-magazine/it-spektrum/) &mdash;
-[Skalierbare Dokumentation-as-Code im Enterprise-Umfeld](https://www.sigs.de/artikel/skalierbare-dokumentation-as-code-im-enterprise-umfeld/)
+_[Skalierbare Dokumentation-as-Code im Enterprise-Umfeld](https://www.sigs.de/artikel/skalierbare-dokumentation-as-code-im-enterprise-umfeld/)_
 
 ## Conferences
 
 ### 2026
 
-* [Java Land](https://www.javaland.eu) &mdash;
+* [JavaLand](https://www.javaland.eu) &mdash;
 _[How to write Better Documentation](https://meine.doag.org/events/javaland/2026/agenda/#agendaId.6858)_
 ([Slides](https://speakerdeck.com/aeimer/how-to-write-better-documentation))
-* [Java Land](https://www.javaland.eu) &mdash;
+* [JavaLand](https://www.javaland.eu) &mdash;
 _[EU AI Act: Compliance ohne Kopfschmerzen](https://meine.doag.org/events/javaland/2026/agenda/#agendaId.6867)_
+([Slides](https://speakerdeck.com/aeimer/eu-ai-act-compliance-ohne-kopfschmerzen))
 
 ## Meetups
 
