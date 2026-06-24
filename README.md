@@ -36,6 +36,10 @@ _[EU AI Act: Compliance ohne Kopfschmerzen](https://meine.doag.org/events/javala
 
 ### 2026
 
+* [Codineers Rosenheim](https://www.meetup.com/de-de/codineers-meetup/) &mdash;
+_[KI-Agenten & Code im Security-Check: Zwischen Hype, Hack und SAIF 2.0](https://www.meetup.com/de-de/codineers-meetup/events/314749071/)_
+([Slides](https://speakerdeck.com/aeimer/ki-agenten-and-code-im-security-check-zwischen-hype-hack-und-saif-2-dot-0))
+
 * [Java User Group Darmstadt](https://jug-da.de) &mdash;
 _[How to write Better Documentation](https://www.jug-da.de/2026/02/JavaLand-Newcomer/)_
 ([Slides](https://speakerdeck.com/aeimer/how-to-write-better-documentation))
