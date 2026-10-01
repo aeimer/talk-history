@@ -30,7 +30,7 @@ _[Skalierbare Dokumentation-as-Code im Enterprise-Umfeld](https://www.sigs.de/ar
 Moderation of the main stage and the panels discussions on the main stage
   * Keynote: Kelsey Hightower ([YouTube](https://www.youtube.com/watch?v=C75Nj4oKphU))
   * Panel: Disaster Recovery ([YouTube](https://www.youtube.com/watch?v=7tCqlzaUveE))
-  * Panel: Lean Platform Engineering <!--([YouTube](https://yt.be))-->
+  * Panel: Lean Platform Engineering ([YouTube](https://www.youtube.com/watch?v=a9xTRoZo_2U))
 * [JavaLand](https://www.javaland.eu)
   * _[How to write Better Documentation](https://meine.doag.org/events/javaland/2026/agenda/#agendaId.6858)_
 ([Slides](https://speakerdeck.com/aeimer/how-to-write-better-documentation))
